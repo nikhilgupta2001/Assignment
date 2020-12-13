@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.center{
+  text-align: center;
+  color:lawngreen;
+  font-size: 3rem;
+  font-family: monospace;
+  background-color:black;
+  margin-top: 0;
+  margin-left: 0%;
+  margin-right: 0%;
+ /* margin: 2rem; */
+}
+.centerContent{
+  margin-left: 5rem;
+  margin-right: 5rem;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: bisque;
+  padding: 2px;
+}
